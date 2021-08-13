@@ -1,0 +1,35 @@
+.container {
+  background-color: red;
+  width: 100vw -10px;
+  height: 25vh;
+  border: 10px solid green;
+}
+
+ul {
+  margin: 0;
+  background-color: plum;
+  padding: 2rem;
+}
+
+li:nth-child(1) {
+  color: green;
+}
+
+li:nth-child(2) {
+  color: blue;
+}
+
+li:nth-child(3) {
+  color: yellow;
+}
+
+.paragrafo {
+  margin: 0;
+  background-color: orange;
+  padding: 5rem 0;
+
+  border: 7px solid red;
+
+  text-align: left;
+  font-size: 2rem;
+}

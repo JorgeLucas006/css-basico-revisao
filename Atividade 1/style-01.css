@@ -1,0 +1,17 @@
+a:link {
+  color: blue;
+}
+
+p strong{
+  color: red;
+}
+
+.destaque {
+  background-color: #fffcbb;
+  padding: 10px;
+}
+
+#unico {
+  font-weight: bold;
+  font-size: 1.2rem;
+}

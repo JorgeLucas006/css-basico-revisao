@@ -1,0 +1,32 @@
+h1 {
+  text-align: right;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+td { 
+  padding: 0.5rem 1rem;
+}
+
+tr td {
+  background-color: #b2b2b2;
+}
+
+tr td:first-child {
+  background-color: #888;
+}
+
+tr td:last-child {
+  font-weight: bold;
+}
+
+tr td span {
+  color: white;
+}
+
+table, tr, td {
+  border: 2px solid;
+}
